@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Aniketh.Console</id>
+    <version>2.0.0</version>
+    <authors>Aniketh Badakala</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>nuget.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://rithus.kitchen/</projectUrl>
+    <description>Custom Nugets</description>
+    <tags>utilities http caching</tags>
+    <repository type="git" url="https://github.com/AnikethBadakala/Nugets" commit="d3c57be992ce38a947909d2702d32ac45bd9e3fa" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="G:\ASPNETCore\CustomNugets\CustomNugets\bin\Release\net6.0\CustomNugets.pdb" target="lib\net6.0\CustomNugets.pdb" />
+    <file src="G:\ASPNETCore\CustomNugets\CustomNugets\bin\Release\net8.0\CustomNugets.pdb" target="lib\net8.0\CustomNugets.pdb" />
+  </files>
+</package>

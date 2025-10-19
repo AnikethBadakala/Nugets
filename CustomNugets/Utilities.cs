@@ -1,6 +1,6 @@
 ﻿namespace CustomNugets
 {
-    public class Class1
+    public class Utilities
     {
         public static void ConsoleIt(string s)=> Console.WriteLine($"Consolling... {s}");
     }
