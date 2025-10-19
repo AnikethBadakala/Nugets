@@ -9,3 +9,4 @@ G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.dll
 G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\refint\CustomNugets.dll
 G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.pdb
 G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\ref\CustomNugets.dll
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.sourcelink.json
