@@ -1,0 +1,11 @@
+G:\ASPNETCore\CustomNugets\CustomNugets\bin\Debug\net6.0\CustomNugets.deps.json
+G:\ASPNETCore\CustomNugets\CustomNugets\bin\Debug\net6.0\CustomNugets.dll
+G:\ASPNETCore\CustomNugets\CustomNugets\bin\Debug\net6.0\CustomNugets.pdb
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.AssemblyInfoInputs.cache
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.AssemblyInfo.cs
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.csproj.CoreCompileInputs.cache
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.dll
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\refint\CustomNugets.dll
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\CustomNugets.pdb
+G:\ASPNETCore\CustomNugets\CustomNugets\obj\Debug\net6.0\ref\CustomNugets.dll
