@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "CustomNugets/2.0.0": {
+      "CustomNugets/3.0.0": {
         "dependencies": {
           "Microsoft.SourceLink.GitHub": "8.0.0"
         },
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "CustomNugets/2.0.0": {
+    "CustomNugets/3.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

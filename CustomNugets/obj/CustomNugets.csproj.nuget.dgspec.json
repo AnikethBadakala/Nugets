@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ASPNETCore\\CustomNugets\\CustomNugets\\CustomNugets.csproj": {}
+    "G:\\ASPNETCore\\CustomNugets\\customnugets\\CustomNugets.csproj": {}
   },
   "projects": {
-    "G:\\ASPNETCore\\CustomNugets\\CustomNugets\\CustomNugets.csproj": {
-      "version": "2.0.0",
+    "G:\\ASPNETCore\\CustomNugets\\customnugets\\CustomNugets.csproj": {
+      "version": "3.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ASPNETCore\\CustomNugets\\CustomNugets\\CustomNugets.csproj",
+        "projectUniqueName": "G:\\ASPNETCore\\CustomNugets\\customnugets\\CustomNugets.csproj",
         "projectName": "Aniketh.Console",
-        "projectPath": "G:\\ASPNETCore\\CustomNugets\\CustomNugets\\CustomNugets.csproj",
+        "projectPath": "G:\\ASPNETCore\\CustomNugets\\customnugets\\CustomNugets.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "G:\\ASPNETCore\\CustomNugets\\CustomNugets\\obj\\",
+        "outputPath": "G:\\ASPNETCore\\CustomNugets\\customnugets\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

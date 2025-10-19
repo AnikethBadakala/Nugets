@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Aniketh.Console</id>
-    <version>2.0.0</version>
+    <version>3.0.0</version>
     <authors>Aniketh Badakala</authors>
     <license type="file">LICENSE.txt</license>
     <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
@@ -18,10 +18,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="G:\ASPNETCore\CustomNugets\CustomNugets\bin\Release\net6.0\CustomNugets.dll" target="lib\net6.0\CustomNugets.dll" />
-    <file src="G:\ASPNETCore\CustomNugets\customnugets\bin\Release\net8.0\CustomNugets.dll" target="lib\net8.0\CustomNugets.dll" />
-    <file src="G:\ASPNETCore\CustomNugets\customnugets\LICENSE.txt" target="LICENSE.txt" />
-    <file src="G:\ASPNETCore\CustomNugets\customnugets\README.md" target="README.md" />
-    <file src="G:\ASPNETCore\CustomNugets\customnugets\nuget.png" target="nuget.png" />
+    <file src="G:\ASPNETCore\CustomNugets\CustomNugets\bin\Release\net6.0\CustomNugets.pdb" target="lib\net6.0\CustomNugets.pdb" />
+    <file src="G:\ASPNETCore\CustomNugets\customnugets\bin\Release\net8.0\CustomNugets.pdb" target="lib\net8.0\CustomNugets.pdb" />
   </files>
 </package>
