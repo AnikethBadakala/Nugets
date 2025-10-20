@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Custom Nugets")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("3.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.0.0+42e7cfeca26447793cf430d1cc85bfa4560a49ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomNugets")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomNugets")]
 [assembly: System.Reflection.AssemblyVersionAttribute("3.0.0.0")]
